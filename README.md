@@ -1,5 +1,3 @@
-# Web-Scraping-for-Product-details
----
 
 # Web Scraping with Python
 
